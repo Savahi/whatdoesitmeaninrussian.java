@@ -1,0 +1,20 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="frameanswer_hmargin">0dp</dimen>
+    <dimen name="frameanswer_vmargin">4dp</dimen>
+
+    <dimen name="match_hmargin">0dp</dimen>
+    <dimen name="match_vmargin">4dp</dimen>
+    <dimen name="match_boxmargin">4dp</dimen>
+    <dimen name="match_hpadding">2dp</dimen>
+    <dimen name="match_vpadding">4dp</dimen>
+
+    <dimen name="button_hmargin">4dp</dimen>
+    <dimen name="button_vmargin">4dp</dimen>
+
+    <dimen name="multiline_text">16sp</dimen>
+
+    <dimen name="singleline_text">18sp</dimen>
+</resources>

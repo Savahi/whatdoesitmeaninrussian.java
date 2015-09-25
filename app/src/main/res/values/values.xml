@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="button_shadow_radius">1</integer>
+    <integer name="button_shadow_dx">1</integer>
+    <integer name="button_shadow_dy">1</integer>
+
+    <integer name="default_user_rating">1000</integer>
+</resources>
